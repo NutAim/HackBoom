@@ -16,8 +16,8 @@ print(intro)
 
 print("กรอกเบอร์ที่จะยิง (ตัวอย่าง +66912345678)")
 try:
-	no = int(input("ใส่เบอร์    : "))
-	jml = int(input("ใส่จำนวนที่ต้องการโทรเข้า : "))
+	no = int(input("ใส่เบอร์    : 0623480027"))
+	jml = int(input("ใส่จำนวนที่ต้องการโทรเข้า : 2"))
 	print()
 except:
 	print("\n\t* Only Number *")
