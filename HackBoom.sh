@@ -18,8 +18,8 @@ echo -e "\e[4;32m   YouTube: https://www.youtube.com/c/Scriptking SCK \e[0m"
 echo " "
 echo -e "\e[4;31m Please Read Instruction Carefully !!! \e[0m"
 echo " "
-echo "⬜ 1 To  ยิงSMS "
-echo "⬜ 2 To  ยิงเบอร์ "
+echo "⬜ 1 To  ยิงSMS "0623480027
+echo "⬜ 2 To  ยิงเบอร์ "0623480027
 echo "⬜ 3 To  อัพเดท (Works On Linux And Linux Emulators) "
 echo "⬜ 4 To  View Features "
 echo "⬜ 5 To  Exit "
